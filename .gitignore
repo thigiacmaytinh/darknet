@@ -20,7 +20,7 @@ decaf/
 submission/
 cfg/
 temp/
-build/darknet/*
+build/darknet/
 build_*/
 ninja/
 ninja.zip
