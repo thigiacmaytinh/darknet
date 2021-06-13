@@ -1,0 +1,5 @@
+classes=1
+train=data/bike_plate/train.txt
+valid=data/bike_plate/valid.txt
+names=data/bike_plate/bike_plate.names
+backup=backup/
